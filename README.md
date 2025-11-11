@@ -129,5 +129,5 @@ Veja LICENSE para mais informações.
 
 👤 Autor
 Anderson Batista dos Santos
-📧 [Seu e-mail aqui, se quiser adicionar]
+📧 [andersonrexbatista@gmail.com]
 🌐 https://github.com/AndyTex2003
